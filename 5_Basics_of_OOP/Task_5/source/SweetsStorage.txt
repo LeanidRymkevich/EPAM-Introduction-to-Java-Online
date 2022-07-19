@@ -1,0 +1,4 @@
+Candy name=Squirrel cost=2.0 weight=0.03
+Chocolate name=Alenka cost=8.0 weight=0.2
+Cookie name=Сornflowers cost=5.0 weight=0.15
+Waffle name=BlackSeaWaffle cost=6.0 weight=0.15
